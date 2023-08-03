@@ -102,26 +102,23 @@ source-
 
 **\*) BLDC Motors**
 
-  
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQMpO9DQT6ODAa0vThn0PGrZlhA5mO3WROlEDpaET59QY2kozuc9nNph_iwniOMXe3cHe3Xa5ev9FOv_2Z-0MBqBjhAiVA5fF1yRjoEP0Tp8c-lnWTVzNyusCdxSDaIhBIjFC0au-EHBS_BSYmrv1byXSvt8owXlYkAvCG02JpKzPluwBtwf0FPBK7jhUy/s320/bldc.jpeg align="left")
 
 source-
 
 [https://robotist.in/product/dji-2212-920kv-brushless-dc-motor-for-drone-with-black-cap-cw-motor-rotation/](https://robotist.in/product/dji-2212-920kv-brushless-dc-motor-for-drone-with-black-cap-cw-motor-rotation/)
 
-BLDC motors are generally used for Drones due to their high power, high RPM and low wear and tear. 
+BLDC motors are generally used for Drones due to their high power, high RPM and low wear and tear.
 
 **\*) Propellers**
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaRtjyFmd5yIVQRtz_Dp1SwHVQq79sJpk0zf37ZybyvmUVc80WSHgN9-9tJHmDNf6KKTL4RKR5E4ONIbxIaxk1za8sJyzztZpLhuhmUmH0Lweg8zSv-90zm1Lh3sVG1dBi7vrb7z3wqomfu8y2SEvRmn3fDkoem10bgJgiwfREmVe2Qq64iMagId64lKUz/s320/props.jpeg align="left")
 
-  
-source - 
+source -
 
 [http://www.rchyderabad.com/carbon-fiber-rc-timer-propeller-multirotor-drones.html](http://www.rchyderabad.com/carbon-fiber-rc-timer-propeller-multirotor-drones.html)
 
-Propellers are used to generate the required thrust. Choosing the proper propellers is crucial because you have to calculate the Pitch, Diameter for the particular motor. Each motor's property is different hence how much the current motor consumes to make 1 turn and in that turn how much lift is generated is directly depends on the Propellers. Choosing the wrong propellers can make the motor hot and can reduce the life of the motor also.
+Propellers are used to generate the required thrust. Choosing the proper propellers is crucial because you have to calculate the Pitch, Diameter for the particular motor. Each motor's property is different hence how much the current motor consumes to make 1 turn and in that turn how much lift is generated directly depends on the Propellers. Choosing the wrong propellers can make the motor hot and can reduce the life of the motor also.
 
 It's better to see the motor specs where it will be mentioned how much thrust it generates with which propellers and at what RPM. Follow that only.
 
@@ -188,7 +185,7 @@ These days high-grade Radios are also having this facility but you need to decid
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNwzogdAJd74g_UOVigE1O6A84MypLQOTxIhapN6t2-8bk8c4r8j4Rd2woHuv2HJvVHsK3dV2wVlYBmqQlxNqx-Zi1nnRWNiK8kenfTbmjXk7hSbGRW2w71F1Vb-USbv0b0uzMuonWV_r0S2wb-puaJG4OZSXLN6enrxx2MX3WoNQsQuzbXS3CE_Ozih_J/w399-h399/radio.webp align="left")
 
-source - 
+source -
 
 [https://robu.in/product/radiolink-at10-2-4ghz-12ch-rc-drone-transmitter/](https://robu.in/product/radiolink-at10-2-4ghz-12ch-rc-drone-transmitter/)
 
@@ -212,8 +209,6 @@ I used the **Cube-Orange Flight** Controller.
 
 **\*) Power Distribution Board**
 
-                                [](https://www.blogger.com/blog/post/edit/8181348043070001817/4476928216763764192#)
-
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiTwyc9PeKHSYfxlqWeJwzrBqapr0LcBlqwMtWv8SepOmd0hN4IF59YYfsT03WR3QZXxvC7nrEYsk02CUH9LCo3ErWdY9fxRk5IEExysc0ZMrOFiuYa_OsqCl3Vox98e8qunqln85KJyfvt59vcgVS3lj70i6NB5f6VU1NhN0vXP7iRXCgL44YDYnSFf5A/s320/pd1.webp align="left")
 
 source-
@@ -228,8 +223,6 @@ It can also provide regulated power that can be used to actuate different extern
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg75DWemBfjLOYYMP5onjDcS0qUOaAnijBP6XTAX3DMcLLhCPc0KKIJrHCwyetlbD68Jf4Hnk4JDIYLurh1JVKurQmbN0kCD9YXMm47fkbXS4f29q_mj4yY3PrHPrrmd9L8ZI6mnuPYUsYlW3uGfyuA3mNgY7NzR7sG4i3Qj4KsaJ2O8vT1XC8xU9uSZRXY/s320/gps.jpg align="left")
 
-  
-
 source-
 
 [https://www.amazon.com/HEX-Here3-GNSS-Module-iStand/dp/B0C3KBK7N4](https://www.amazon.com/HEX-Here3-GNSS-Module-iStand/dp/B0C3KBK7N4)
@@ -238,27 +231,27 @@ GPS is a must for the beginner as it is required to fly the drone in Loiter mode
 
 Without this, you have to fly the drone on your own.
 
-Alternatively, you can use the optical flow camera that gives you a change in X/Y direction which is used to put the drone in a self hold position.
+Alternatively, you can use the optical flow camera that gives you a change in X/Y direction which is used to put the drone in a self-hold position.
 
 **\*) Payload (if required)**
 
 These are the extra component which you want to carry along with the drone like camera, lidar etc.
 
-You should tune the drone with the payload in order to use it effectively.
+You should tune the drone with the payload to use it effectively.
 
 ## Connection Diagram
 
-Straight from the Official page of Ardupilot here is Connection Diagram attached.
+Straight from the Official page of Ardupilot here is the Connection Diagram attached.
 
-Reference of image- 
+Reference of the image-
 
 [https://ardupilot.org/copter/\_images/Cubepilot\_ecosystem.jpg](https://ardupilot.org/copter/_images/Cubepilot_ecosystem.jpg)
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirO0tLM2TUGOU31GQm8iGo_58vqLHstSCXGU28sOC-mQwU_NSGEz-1mOLizE7_LBQrb0LQCBjjK4nXn5v-1mpU01OP6PrBFK0kVlHm87a2kThH6lZ6fHcJ6nLBYg-UlR0kTVrirC9wbcDesMSOBZnuKa3MG_BKsqc_TCqYLQy4Ppgw4JE467lrpENN-LpY/w579-h770/Cubepilot_ecosystem.jpg align="left")
 
-As you can see all the necessary connections of ESC,motor,flight controller etc. This is very good image depicting everything you need to know about the connection.
+As you can see all the necessary connections of ESC, motor, flight controller etc. This is a very good image depicting everything you need to know about the connection.
 
-Still you want to ask anything related to this, you can comment.
+Still, you want to ask anything related to this, you can comment.
 
 **Assembly**
 
@@ -268,25 +261,19 @@ The foundation of any successful drone assembly is a robust base frame. If you i
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnFSTBp30_RcryyPy6P0zQmUiCxMPv8olVs20I2-Rb-o2KEU5YThYbBd6eH1Fmd6Mfl5kmBsfKFgfUTulNrLKRDlZUX42tgsifihJcV1U9HS0VZUvvXOpEUZRVqgQ5yMqJzr4sKrRj7ps23jgS7NsMMXOzvzBPhcwT4w1at8isczJY2nniadcje5eS5YEy/s320/drone.jpeg align="left")
 
-  
-
-I used T-motor FOC combo that includes Motor+ESC+Propellers.
+I used a T-motor FOC combo that includes Motor+ESC+Propellers.
 
 **🔹 Attaching the Motors to the Arms:**
 
-Securely attach the motors to the designated arms of the drone frame. Double-check that they are firmly fixed in place to prevent any issues during flight.
+Securely attach the motors to the designated arms of the drone frame. Double-check that they are firmly fixed in place to prevent any issues during the flight.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6d7wKNkmHpJeBISqEIE-wtQwI9IR7jtpLAu3HbRw1t53UlWn92puL9jDi6MzOj1eswurKDKd49ILEJzNKhhQhKSNQ8oBfki2nw5WeOpa-G0B6uAxKzyJJytRqCrpBZJtj-6eXtbzWQ8XQIeIvArCxnZD0eaT14nqCfSn0txwj2lP7frCoUIsT5-k6ZJuY/s320/IMG_2928.heic align="left")
-
-  
 
 **🔹 Fitting the Propellers:**
 
 Refer to the provided diagram to correctly fit the propellers onto the motors. It's essential to understand the proper orientation of each propeller to ensure stable flight. However, refrain from connecting the propellers at this stage, as we will perform ESC calibration before the final attachment.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBWLhwFZPM8uMjM1mGYrJ0J0KvzF4a-3xanmbMIA6b7Z0mAUeoAbUezx7SiXnzrL3m8pQaJz7SPTh37HpCxaJp6hSzwGMXJ_vo1efCijMIPQ5Gk7sDcs03nfp4jrQy9XB2dmt1W1EDl_jsBa7Ru3dJjRhiEKUUw-zoHdhEzTZP7V7s5pT-UKmQ6PNy58Ac/s320/quad-props.png align="left")
-
-  
 
 **🔹 Connecting the Motor Wires and ESCs:**
 
@@ -296,7 +283,7 @@ Connect the 2-pin wire with Flight Controller in Main-servo connectors serially.
 
 Note-
 
-There are combo packs that includes all 3 components - Motor+ESC+Propellers which makes it easy to use without any confusion, Those are know as FOC
+There are combo packs that include all 3 components - Motor+ESC+Propellers which makes it easy to use without any confusion, Those are known as FOC
 
 **🔹 GPS Module Connection:**
 
@@ -308,7 +295,7 @@ source-
 
 [https://docs.cubepilot.org/user-guides/here-3/here-3-manual](https://docs.cubepilot.org/user-guides/here-3/here-3-manual)
 
-This is very good guide to study to understand different types of connectors and there pin configurations.
+This is a very good guide to study to understand different types of connectors and their pin configurations.
 
 **🔹 Radio Telemetry Setup:**
 
@@ -316,15 +303,13 @@ Connect the Radio Telemetry to the designated serial connector on the Pixhawk fl
 
 Connector - UART1/Serial1 in flight controller board
 
-Above picture also shows the Telemetry connection.
+The above picture also shows the Telemetry connection.
 
 **🔹 Battery Power Module:**
 
 Next, connect the Battery Power Module to the flight controller. A well-configured power supply is essential for a consistent and reliable power source during flight operations.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5T2TbGDGwOfgrkJB_tYIet7XwmX7gsGMHIs6TDqWJ3TgR8WjstL20Ro9XxiRHsw3N0Z3G262b5tlnV8NqwvXZDM4TlIwhHQkpfL1afJGCOwfEA_5nzniV5l3c9_uz5ncfelLKFXLLp49vvffVxWg0d2U__VuNYW5PfIJYufzvCENLU8DrK2VOpgt9RqZI/w466-h155/power-module.jpeg align="left")
-
-  
 
 source-
 
@@ -336,9 +321,7 @@ If you're using round carbon fiber rods, take the time to level the motors and s
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1z7yr2Zueq37BUtmf5vZro8RPspjI8_C7qZtwLau7o0CuKa28JcQ_g_YoOWk73y8e0ygUOEjPV4A3Si6U1_erG0vf3dubdOE8vrLSxSnGtp06ePYba3UfQMhox19m65hMJYAFBjvGDJu-7w488NMVJ8vKYj6mCZ2is1-obDeuCZ46RxrzBG_dgxAOJM1Y/w409-h257/IMG_1607.jpg align="left")
 
-  
-
-A better way to level is connect the propellers and place your drone in horizontal level. Measure the distance from the ground to the propellers tip on both side and make it perfect same.
+A better way to level is to connect the propellers and place your drone at a horizontal level. Measure the distance from the ground to the tip of the propeller on both sides and make it perfectly the same.
 
 This way you can level the motors easily and most efficiently.
 
@@ -352,19 +335,19 @@ Firstly, check if the Electronic Speed Controllers (ESCs) are correctly calibrat
 
 ***Proper Motor Leveling:***
 
-If ESC calibration doesn't resolve the rotational issue, then examine the motor leveling. Ensure that all motors are level with each other and securely fastened. Misaligned motors can lead to erratic behavior and instability during flight.
+If ESC calibration doesn't resolve the rotational issue, then examine the motor levelling. Ensure that all motors are level with each other and securely fastened. Misaligned motors can lead to erratic behaviour and instability during flight.
 
 ## Getting Started
 
-Once all the connections are done. Then go to empty open space and do the followings-
+Once all the connections are done. Then go to an empty open space and do the followings-
 
 **1) Radio Calibration.**
 
-\*) Open Mission Planner in laptop.
+\*) Open Mission Planner on a laptop.
 
-\*) Power on the drone and let the Device connected (select Buadrate         57600 and /dev/ttyusb) from top right corner.
+\*) Power on the drone and let the Device be connected (select Buadrate         57600 and /dev/ttyusb) from the top right corner.
 
-\*) Go to "Mandatory-hardware" tab and then Radio Calibration option and do the steps that is been asked.
+\*) Go to the "Mandatory-hardware" tab and then the Radio Calibration option and do the steps that are been asked.
 
 For more reference-
 
@@ -374,11 +357,11 @@ For more reference-
 
 \*) Remove the propellers before performing ESC calibration.
 
-\*) Go to ESC calibration section and click on the button.
+\*) Go to the ESC calibration section and click on the button.
 
-\*) After that remove the power of drone and power it again.
+\*) After that remove the power of the drone and power it again.
 
-\*) After it boots up, you will here the beep sounds that represents the ESCs are calibrated.
+\*) After it boots up, you will hear the beep sounds that represent the ESCs calibrated.
 
 \*) You can check the motor rotation for each motor with your stick.
 
@@ -388,9 +371,9 @@ For more reference-
 
 **3) Compass Calibration.**
 
-Remember to connect the GPS pointing direction should be same to as Flight Controller Pointing Direction as both will be oriented in same direction.
+Remember to connect the GPS pointing direction should be the same to as Flight Controller Pointing Direction as both will be oriented in the same direction.
 
-\*) Go to "Mandatory-hardware " tab and select Compass calibration
+\*) Go to the "Mandatory-hardware " tab and select Compass calibration
 
 \*) Please check your external GPS is displayed there.
 
@@ -408,31 +391,31 @@ This crucial stage of the setup process requires careful attention to detail to 
 
 **🔹 Power On and Check QGroundControl:**
 
-Begin by powering on your drone and launching QGroundControl on your laptop. QGroundControl is chosen over Mission Planner for its user-friendly interface and clear indication of your drone's readiness for flight. As a beginner, it's vital to rely on the software to verify if all sensors are correctly calibrated before takeoff. If the software indicates that your drone is "**Ready to Fly**" you can proceed confidently. Otherwise, carefully review any error messages and address the necessary adjustments.
+Begin by powering your drone and launching QGroundControl on your laptop. QGroundControl is chosen over Mission Planner for its user-friendly interface and a clear indication of your drone's readiness for flight. As a beginner, it's vital to rely on the software to verify if all sensors are correctly calibrated before takeoff. If the software indicates that your drone is "**Ready to Fly**" you can proceed confidently. Otherwise, carefully review any error messages and address the necessary adjustments.
 
-There can be several issue like-
+There can be several issues like-
 
-**EKF related** -&gt; make the drone stable for few mins to get it rectified automatically.
+**EKF related** -&gt; make the drone stable for a few mins to get it rectified automatically.
 
 **GPS Lock** -&gt; Loiter/Alt hold mode will not get used without GPS Lock.
 
 **🔹 Selecting the Right Flight Mode:**
 
-In Ardupilot Software, various flight modes are available, each serving different purposes. While the documentation may suggest starting in Stabilised Mode, i personally recommend using Loiter Mode for your first flight. This mode provides a more forgiving flight experience, making it easier for beginners to control the drone and execute manoeuvres with greater stability.
+In Ardupilot Software, various flight modes are available, each serving different purposes. While the documentation may suggest starting in Stabilised Mode, i recommend using Loiter Mode for your first flight. This mode provides a more forgiving flight experience, making it easier for beginners to control the drone and execute manoeuvres with greater stability.
 
-## \*\*\*Using Self-Centered stick in Radio Controller\*\*\*
+### \*\*\*Using Self-Centered stick in Radio Controller\*\*\*
 
-Whenever you are flying drone , you have to control both sticks in radio in order to control throttle and roll-pitch-yaw of the drone.
+Whenever you are flying a drone, you have to control both sticks in the radio to control the throttle and roll-pitch-yaw of the drone.
 
-For a beginner it will be difficult to do that and i am sure you will end up crashing you drone.
+For a beginner, it will be difficult to do that and I am sure you will end up crashing your drone.
 
 Hence you need to fly the drone in a way where you don't need to control the throttle and just roll and pitch ("Loiter Mode").
 
-But for Loiter Mode, your stick needs to be in centre after you armed your drone. Then you can make it fly up/down by moving your throttle stick up from the centre/down from the centre.
+But for Loiter Mode, your stick needs to be in the centre after you armed your drone. Then you can make it fly up/down by moving your throttle stick up from the centre/down from the centre.
 
-Thus if your stick is self-centered, then you just release it after arming and you need not to worry about its placement. But if you are using non self-centred stick, then you have to manually put it in middle which needs very preciseness and smooth finger movement.
+Thus if your stick is self-centred, then you just release it after arming and you need not worry about its placement. But if you are using a non-self-centred stick, then you have to manually put it in the middle which needs very preciseness and smooth finger movement.
 
-I hope you got it now why Self-Centered Stick is better option to use for throttling the drone.
+I hope you got it now why Self-Centered Stick is a better option to use for throttling the drone.
 
 **🔹 Performing the First Flight:**
 
@@ -448,7 +431,7 @@ Should your drone start rotating excessively in one direction without toppling, 
 
 **🔹 Calibrating ESCs for Yaw Stability:**
 
-If your drone exhibits undesired rotation in the YAW direction and remains at a specific angle, it indicates an issue with the Electronic Speed Controllers (ESCs) calibration. To resolve this, perform an ESC calibration to ensure smooth and stable YAW control.
+If your drone exhibits undesired rotation in the YAW direction and remains at a specific angle, it indicates an issue with the Electronic Speed Controller (ESCs) calibration. To resolve this, perform an ESC calibration to ensure smooth and stable YAW control.
 
 **🔹 Radio Calibration for Optimal Responsiveness:**
 
@@ -456,19 +439,19 @@ If you notice sluggish response in the ROLL or PITCH direction while your drone 
 
 **🔹 Analyzing Flight Logs:**
 
-Once you've safely landed your drone, take the time to review the message logs in the Ground Station. Analyzing these logs will provide valuable insights into your drone's behavior during the flight. This analysis can help you identify any issues that might have gone unnoticed during the flight and aid in making necessary adjustments for future flights.
+Once you've safely landed your drone, take the time to review the message logs in the Ground Station. Analyzing these logs will provide valuable insights into your drone's behaviour during the flight. This analysis can help you identify any issues that might have gone unnoticed during the flight and aid in making necessary adjustments for future flights.
 
 ***Note*:**
 
-*If your are done with above steps that is happy moment but don't think that your Drone is now ready to fly... Tuning is still left and believe me that is very much important before flying drone repeatedly in Air because if you encountered sudden GUST then your drone should be well tuned to be stable.*
+*If you are done with the above steps that is a happy moment but don't think that your Drone is now ready to fly... Tuning is still left and believe me that is very much important before flying a drone repeatedly in Air because if you encountered sudden GUST then your drone should be well-tuned to be stable.*
 
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
-Thank you for joining me on this journey of drone DIY. I hope this comprehensive guide has empowered you to unleash your creativity and passion for drones. Whether you're a seasoned drone enthusiast or a newcomer to the world of UAVs, building your own drone is a fulfilling and rewarding experience.
+Thank you for joining me on this journey of drone DIY. I hope this comprehensive guide has empowered you to unleash your creativity and passion for drones. Whether you're a seasoned drone enthusiast or a newcomer to the world of UAVs, building your drone is a fulfilling and rewarding experience.
 
 Feel free to share this guide with friends, colleagues, or anyone who might find it helpful.! 🚀🛩️📸
 
-**I am making another blog for the following topics if you want to learn more then be in touch and let me know in comments.**
+**I am making another blog for the following topics if you want to learn more then be in touch and let me know in the comments.**
 
 ***\-&gt; How ESC works and makes the motor run.***
 
@@ -488,10 +471,10 @@ Feel free to share this guide with friends, colleagues, or anyone who might find
 
 Till then Happy Droning😊.
 
-This is my first blog so if there is any mistake in this blog, let me know in comments...i will be happy to rectify it.
+This is my first blog so if there is any mistake in this blog, let me know in the comments...I will be happy to rectify it.
 
 Rahul Sharma
 
-[LinkedIn](https://www.blogger.com/blog/post/edit/8181348043070001817/4476928216763764192#) 
+[LinkedIn](https://www.blogger.com/blog/post/edit/8181348043070001817/4476928216763764192#)
 
 #DIYDrones #DroneEnthusiast #UAV #DroneBuilding #DroneTech #DroneLife #DroneCommunity #TechInnovation #DroneLovers #AerialPhotography #DroneFlight #DroneCreators #TechDIY #Makers #TechTrends #AerialAdventures #TechEnthusiast
