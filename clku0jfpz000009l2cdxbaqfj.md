@@ -29,9 +29,9 @@ Feel free to explore the topics according to your interests.🤗
     
 * **Assembly**: Step-by-step guide on physically assembling the drone frame and integrating the components.
     
-* [**Getting Started**](https://www.blogger.com/blog/post/edit/8181348043070001817/4476928216763764192#): Learn about the pre-flight preparations, calibration, and safety checks before taking your drone to the skies.
+* **Getting Started**: Learn about the pre-flight preparations, calibration, and safety checks before taking your drone to the skies.
     
-* [**First Flight**](https://www.blogger.com/blog/post/edit/8181348043070001817/4476928216763764192#): Experience the thrill of launching your drone for the first time and the basic flight manoeuvres.
+* **First Flight**: Experience the thrill of launching your drone for the first time and the basic flight manoeuvres.
     
 
 I hope you find this blog helpful in your journey of drone building. Let's get started!
