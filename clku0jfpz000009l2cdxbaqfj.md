@@ -21,13 +21,13 @@ If you're new to this field, no worries! We'll cover everything you need to know
 
 Feel free to explore the topics according to your interests.🤗
 
-* [**Different types of**](https://www.blogger.com/blog/post/edit/8181348043070001817/4476928216763764192#) **drones**: Learn about the various types of drones and their applications in different industries.
+* **Different types of** **drones**: Learn about the various types of drones and their applications in different industries.
     
-* [**Components for Drone**](https://www.blogger.com/blog/post/edit/8181348043070001817/4476928216763764192#): Explore the essential components needed to build a functional drone, including motors, propellers, flight controllers, and more.
+* **Components for Drone**: Explore the essential components needed to build a functional drone, including motors, propellers, flight controllers, and more.
     
-* [**Connection Diagram**](https://www.blogger.com/blog/post/edit/8181348043070001817/4476928216763764192#): Understand how to connect and wire the components together to form a complete drone system.
+* **Connection Diagram**: Understand how to connect and wire the components together to form a complete drone system.
     
-* [**Assembly**](https://www.blogger.com/blog/post/edit/8181348043070001817/4476928216763764192#): Step-by-step guide on physically assembling the drone frame and integrating the components.
+* **Assembly**: Step-by-step guide on physically assembling the drone frame and integrating the components.
     
 * [**Getting Started**](https://www.blogger.com/blog/post/edit/8181348043070001817/4476928216763764192#): Learn about the pre-flight preparations, calibration, and safety checks before taking your drone to the skies.
     
