@@ -455,7 +455,7 @@ Feel free to share this guide with friends, colleagues, or anyone who might find
 
 ***\-&gt; How ESC works and makes the motor run.***
 
-## *\-&gt; Drone Tuning.*
+***\-&gt; Drone Tuning.***
 
 ***\-&gt;  Payload Integration and tune.***
 
